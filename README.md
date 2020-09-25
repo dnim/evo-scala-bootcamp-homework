@@ -1,0 +1,1 @@
+Collections of howetasks from scala bootcamp
