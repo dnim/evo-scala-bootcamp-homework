@@ -18,6 +18,7 @@ build
 *.ipr
 *.iws
 .idea
+src/main/scala/com/evolution/bootcamp/clashofcode
 
 # mac
 .DS_Store
