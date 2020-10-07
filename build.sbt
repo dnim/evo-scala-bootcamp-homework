@@ -1,7 +1,7 @@
 
 scalaVersion := "2.13.1"
 
-name := "evolution-gaming-scala-bootcamp-homework"
+name := "evolution-scala-bootcamp-homework"
 organization := "ch.epfl.scala"
 version := "1.0"
 
